@@ -1,0 +1,97 @@
+/* CSS Document */
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	}
+		
+body{
+	color: white;
+	font-family: arial, sans-serif;
+	font-size: 1.5em;	
+	background-color: #896143;
+	}	
+table{
+	padding: 5% 5%;
+	margin: 0 auto;
+	max-width: 80%;
+	background-color: #814721;
+	border-radius: 15px;
+	margin-top: 20px;
+		}
+		
+#header{
+	text-align: center;
+}
+		
+p{
+	margin: 2% 0%;
+}
+		
+footer{
+	text-align: center;
+}
+		
+.fnav a{
+	color: white;
+	padding: 15px;
+	
+}
+
+.img1{
+	padding-bottom: 40px;
+	margin-right: 40px;
+	width: 40%;
+	float: left;
+}
+
+.img2{
+	width: 50%;
+	float: right;
+	margin-left: 20px;
+}
+
+.img3{
+	width: 35%;
+	float: right;
+	margin-left: 20px;
+}
+
+.img4{
+	width: 45%;
+	float: left;
+	margin-right: 20px;
+}
+
+.img5{
+	width: 30%;
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 40px;
+}
+
+ol li{
+	color: white;
+	margin: 20px;
+}
+
+blockquote{
+	padding: 20px;
+}
+
+.submit, .reset{
+	
+	margin: 20px;
+	font-size: 1.5em;
+	background-color: white;
+	color: #896143;
+	border-radius: 10px;
+}
+
+
+		
+h1{
+	font-size: white;
+	text-align: center;
+	padding: 10px;
+}
